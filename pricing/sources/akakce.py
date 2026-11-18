@@ -21,8 +21,9 @@ BASE = "https://www.akakce.com"
 SOURCE = "akakce"
 
 CATEGORY_PATHS = {
-    "camera": ("/fotograf-makinesi/",),
-    "action": ("/aksiyon-kamera/", "/fotograf-makinesi/"),
+    "camera": ("/fotograf-makinesi/", "/video-kamera/"),
+    "action": ("/aksiyon-kamera/", "/fotograf-makinesi/", "/video-kamera/"),
+    "drone": ("/drone/",),
     "lens": ("/objektif/",),
 }
 
@@ -124,8 +125,28 @@ def _score(item: dict[str, Any], title: str) -> float | None:
 
 def find_product_url(client: PoliteClient, item: dict[str, Any]) -> tuple[str, str] | None:
     """Returns (absolute product url, matched title) or None if no confident match."""
-    query = f"{item['brandName']} {item['model']}"
     allowed = CATEGORY_PATHS.get(item["kind"], ("/",))
+    best: tuple[float, str, str] | None = None
+    for query in _queries(item):
+        best = _best_listing(client, item, query, allowed)
+        if best:
+            break
+    if best is None:
+        return None
+    return BASE + best[1], best[2]
+
+
+def _queries(item: dict[str, Any]) -> list[str]:
+    """Plain name first, then a spaced variant ("GFX100S II" -> "GFX 100S II") used by some listings."""
+    plain = f"{item['brandName']} {item['model']}"
+    spaced = re.sub(r"(?<=[A-Za-z])(?=\d)", " ", item["model"])
+    queries = [plain]
+    if spaced != item["model"]:
+        queries.append(f"{item['brandName']} {spaced}")
+    return queries
+
+
+def _best_listing(client: PoliteClient, item: dict[str, Any], query: str, allowed: tuple[str, ...]):
     best: tuple[float, str, str] | None = None
     for href, title in _search(client, query):
         if not href.startswith(allowed):
@@ -135,29 +156,45 @@ def find_product_url(client: PoliteClient, item: dict[str, Any]) -> tuple[str, s
             continue
         if best is None or score > best[0]:
             best = (score, href, title)
-    if best is None:
-        return None
-    return BASE + best[1], best[2]
+    return best
 
 
 def _jsonld_product(page: str) -> dict[str, Any] | None:
+    """The page's Product, or ProductGroup (colour variants) node."""
     for block in re.findall(r'<script type="application/ld\+json">(.*?)</script>', page, re.S):
         try:
             data = json.loads(block)
         except json.JSONDecodeError:
             continue
         for node in data if isinstance(data, list) else [data]:
-            if isinstance(node, dict) and node.get("@type") == "Product":
+            if isinstance(node, dict) and node.get("@type") in ("Product", "ProductGroup"):
                 return node
     return None
+
+
+def _offer_list(node: dict[str, Any]) -> list[dict[str, Any]]:
+    """Flattens Offer / AggregateOffer / list forms, including every variant of a ProductGroup."""
+    raw = node.get("offers")
+    offers: list[dict[str, Any]] = []
+    if isinstance(raw, list):
+        offers.extend(o for o in raw if isinstance(o, dict))
+    elif isinstance(raw, dict):
+        if isinstance(raw.get("offers"), list):
+            offers.extend(o for o in raw["offers"] if isinstance(o, dict))
+        elif raw.get("price"):
+            offers.append(raw)
+    for variant in node.get("hasVariant") or []:
+        if isinstance(variant, dict):
+            offers.extend(_offer_list(variant))
+    return offers
 
 
 def fetch_offers(client: PoliteClient, product_url: str, matched_title: str) -> MarketResult | None:
     product = _jsonld_product(client.get(product_url))
     if not product:
         return None
-    aggregate = product.get("offers") or {}
-    raw_offers = aggregate.get("offers") or []
+    aggregate = product.get("offers") if isinstance(product.get("offers"), dict) else {}
+    raw_offers = _offer_list(product)
     offers: list[Offer] = []
     for raw in raw_offers:
         try:
@@ -181,7 +218,10 @@ def fetch_offers(client: PoliteClient, product_url: str, matched_title: str) -> 
                 source=SOURCE,
             )
         )
-    offers = drop_outliers(offers)
+    unique: dict[tuple[str, float], Offer] = {}
+    for offer in offers:
+        unique.setdefault((offer.store, round(offer.price)), offer)
+    offers = drop_outliers(list(unique.values()))
     if not offers:
         return None
     try:

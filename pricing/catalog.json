@@ -133,6 +133,13 @@
   "referenceUSD": 5999
  },
  {
+  "id": "canon-vixia-hf-g70",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "VIXIA HF G70",
+  "referenceUSD": 1299.0
+ },
+ {
   "id": "canon-1dxiii",
   "kind": "camera",
   "brandName": "Canon",
@@ -203,6 +210,13 @@
   "referenceUSD": 1999.0
  },
  {
+  "id": "canon-vixia-hf-r800",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "VIXIA HF R800",
+  "referenceUSD": 299.0
+ },
+ {
   "id": "canon-eos-5d-mark-iv",
   "kind": "camera",
   "brandName": "Canon",
@@ -215,6 +229,27 @@
   "brandName": "DJI",
   "model": "Osmo 360 II",
   "referenceUSD": 685.0
+ },
+ {
+  "id": "dji-flip",
+  "kind": "drone",
+  "brandName": "DJI",
+  "model": "Flip",
+  "referenceUSD": 439.0
+ },
+ {
+  "id": "dji-mavic-4-pro",
+  "kind": "drone",
+  "brandName": "DJI",
+  "model": "Mavic 4 Pro",
+  "referenceUSD": 2099.0
+ },
+ {
+  "id": "dji-mini-5-pro",
+  "kind": "drone",
+  "brandName": "DJI",
+  "model": "Mini 5 Pro",
+  "referenceUSD": 799.0
  },
  {
   "id": "dji-osmo-360",
@@ -238,11 +273,46 @@
   "referenceUSD": 299.0
  },
  {
+  "id": "dji-air-3s",
+  "kind": "drone",
+  "brandName": "DJI",
+  "model": "Air 3S",
+  "referenceUSD": 1099.0
+ },
+ {
+  "id": "dji-avata-2",
+  "kind": "drone",
+  "brandName": "DJI",
+  "model": "Avata 2",
+  "referenceUSD": 999.0
+ },
+ {
+  "id": "dji-mini-4k",
+  "kind": "drone",
+  "brandName": "DJI",
+  "model": "Mini 4K",
+  "referenceUSD": 299.0
+ },
+ {
+  "id": "dji-neo",
+  "kind": "drone",
+  "brandName": "DJI",
+  "model": "Neo",
+  "referenceUSD": 199.0
+ },
+ {
   "id": "dji-osmo-action-5-pro",
   "kind": "action",
   "brandName": "DJI",
   "model": "Osmo Action 5 Pro",
   "referenceUSD": 349.0
+ },
+ {
+  "id": "dji-mini-4-pro",
+  "kind": "drone",
+  "brandName": "DJI",
+  "model": "Mini 4 Pro",
+  "referenceUSD": 759.0
  },
  {
   "id": "dji-osmo-action-4",
@@ -544,6 +614,13 @@
   "brandName": "Insta360",
   "model": "X6",
   "referenceUSD": 699.0
+ },
+ {
+  "id": "insta360-antigravity-a1",
+  "kind": "drone",
+  "brandName": "Insta360",
+  "model": "Antigravity A1",
+  "referenceUSD": 1599.0
  },
  {
   "id": "insta360-go-ultra",
@@ -924,6 +1001,13 @@
   "referenceUSD": 1699
  },
  {
+  "id": "panasonic-hc-vx3",
+  "kind": "camera",
+  "brandName": "Panasonic",
+  "model": "HC-VX3",
+  "referenceUSD": 699.0
+ },
+ {
   "id": "panasonic-s5iix",
   "kind": "camera",
   "brandName": "Panasonic",
@@ -1148,6 +1232,13 @@
   "referenceUSD": 3899
  },
  {
+  "id": "sony-fdr-ax43a",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "FDR-AX43A",
+  "referenceUSD": 949.0
+ },
+ {
   "id": "sony-fx30",
   "kind": "camera",
   "brandName": "Sony",
@@ -1272,6 +1363,13 @@
   "brandName": "Sony",
   "model": "RX10 IV",
   "referenceUSD": 1699.0
+ },
+ {
+  "id": "sony-hdr-cx405",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "HDR-CX405",
+  "referenceUSD": 229.0
  },
  {
   "id": "canon-ef-100mm-f28l-macro-is-usm",
