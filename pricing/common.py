@@ -68,6 +68,19 @@ class PoliteClient:
         finally:
             self._last_hit[host] = time.monotonic()
 
+    def get_bytes(self, url: str, headers: dict[str, str] | None = None) -> bytes:
+        """Like get() but returns raw bytes (for non-UTF-8 pages such as Shift-JIS)."""
+        host = urllib.parse.urlparse(url).netloc
+        wait = self.delay - (time.monotonic() - self._last_hit.get(host, 0))
+        if wait > 0:
+            time.sleep(wait)
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, **(headers or {})})
+        try:
+            with urllib.request.urlopen(req, timeout=self.timeout) as resp:
+                return resp.read()
+        finally:
+            self._last_hit[host] = time.monotonic()
+
     def get_json(self, url: str, headers: dict[str, str] | None = None) -> Any:
         return json.loads(self.get(url, headers={"Accept": "application/json", **(headers or {})}))
 

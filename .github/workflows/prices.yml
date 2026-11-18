@@ -7,7 +7,7 @@ on:
     inputs:
       markets:
         description: "Markets to refresh (comma separated)"
-        default: "TR,US"
+        default: "TR,US,JP"
 
 permissions:
   contents: write
@@ -32,7 +32,7 @@ jobs:
           BESTBUY_API_KEY: ${{ secrets.BESTBUY_API_KEY }}
           EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
           EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
-        run: python pricing/fetch_prices.py --markets "${{ github.event.inputs.markets || 'TR,US' }}"
+        run: python pricing/fetch_prices.py --markets "${{ github.event.inputs.markets || 'TR,US,JP' }}"
 
       - name: Commit updated prices
         run: |

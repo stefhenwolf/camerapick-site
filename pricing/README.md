@@ -21,6 +21,7 @@ Produces `data/prices.json`, served by GitHub Pages at
 | ------ | ------ | ----- |
 | TR | Akakçe | Aggregates Hepsiburada, Trendyol, Teknosa, MediaMarkt and photo shops. Reads schema.org offers on product pages; only paths allowed by robots.txt. |
 | US | Abt Electronics | Authorized US dealer; reads schema.org offers on product pages (robots.txt-allowed search and product pages). |
+| JP | Kakaku.com (価格.com) | Search results list maker, name, category, lowest price and shop count; one offer per product linking to the full shop list. |
 | US | Best Buy Products API | Needs the `BESTBUY_API_KEY` secret (free at developer.bestbuy.com). |
 | US | eBay Browse API | New, buy-it-now listings in the US. Needs the `EBAY_CLIENT_ID` and `EBAY_CLIENT_SECRET` secrets (developer.ebay.com). |
 
