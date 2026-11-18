@@ -86,7 +86,9 @@ def _score(item: dict[str, Any], title: str) -> float | None:
     title_norm = normalize(title)
     title_tokens = set(_expanded(tokens(title)))
     brand = normalize(item["brandName"]).split(" ")[0]
-    if brand not in title_tokens:
+    # The listing must be *made by* the brand (first word), not merely compatible with it
+    # ("7Artisans 50mm f/1.2 Nikon Z" is not a Nikon lens).
+    if not tokens(title) or tokens(title)[0] != brand:
         return None
 
     required = _required_tokens(item)
