@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "promotions": [
+    {
+      "id": "editorial-2026-11-sony-a7v",
+      "slot": "home_featured",
+      "sponsored": false,
+      "priority": 30,
+      "title": { "tr": "Yeni nesil hibrit: Sony A7 V", "en": "The new hybrid benchmark: Sony A7 V" },
+      "subtitle": { "tr": "Kısmen yığınlanmış 33MP sensör, 30 fps", "en": "Partially stacked 33MP sensor, 30 fps" },
+      "accentHex": "#1F2A44",
+      "cameraID": "sony-a7v"
+    },
+    {
+      "id": "editorial-2026-11-canon-r6iii",
+      "slot": "home_featured",
+      "sponsored": false,
+      "priority": 20,
+      "title": { "tr": "Canon EOS R6 Mark III", "en": "Canon EOS R6 Mark III" },
+      "subtitle": { "tr": "7K open gate video, 40 fps seri çekim", "en": "7K open-gate video, 40 fps bursts" },
+      "accentHex": "#8E1B1B",
+      "cameraID": "canon-r6iii"
+    },
+    {
+      "id": "editorial-2026-11-action",
+      "slot": "home_featured",
+      "sponsored": false,
+      "priority": 10,
+      "title": { "tr": "Aksiyon kameraları geldi", "en": "Action cameras are here" },
+      "subtitle": { "tr": "DJI Osmo Action 6: değişken diyafram, 1/1.1\" sensör", "en": "DJI Osmo Action 6: variable aperture, 1/1.1\" sensor" },
+      "accentHex": "#2D2A6E",
+      "cameraID": "dji-osmo-action-6"
+    },
+    {
+      "id": "editorial-2026-11-lens-sigma",
+      "slot": "home_lenses_featured",
+      "sponsored": false,
+      "priority": 10,
+      "title": { "tr": "Fiyat/performans standart zoom", "en": "Best-value standard zoom" },
+      "subtitle": { "tr": "Sigma 24-70mm f/2.8 DG DN II Art", "en": "Sigma 24-70mm f/2.8 DG DN II Art" },
+      "accentHex": "#222222",
+      "lensID": "sigma-24-70-f28-ii-art"
+    }
+  ]
+}

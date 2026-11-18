@@ -1,0 +1,2669 @@
+[
+ {
+  "id": "canon-r6v",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "R6 V",
+  "referenceUSD": 2499.0
+ },
+ {
+  "id": "canon-r8ii",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "R8 Mark II",
+  "referenceUSD": 1899.0
+ },
+ {
+  "id": "canon-powershot-v1",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "PowerShot V1",
+  "referenceUSD": 949.0
+ },
+ {
+  "id": "canon-r50v",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "R50 V",
+  "referenceUSD": 649.99
+ },
+ {
+  "id": "canon-r6iii",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "R6 Mark III",
+  "referenceUSD": 2799.0
+ },
+ {
+  "id": "canon-r1",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "R1",
+  "referenceUSD": 6299
+ },
+ {
+  "id": "canon-r5ii",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "R5 Mark II",
+  "referenceUSD": 4299
+ },
+ {
+  "id": "canon-r100",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "R100",
+  "referenceUSD": 599
+ },
+ {
+  "id": "canon-r50",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "R50",
+  "referenceUSD": 679
+ },
+ {
+  "id": "canon-r8",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "R8",
+  "referenceUSD": 1499
+ },
+ {
+  "id": "canon-r5c",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "EOS R5 C",
+  "referenceUSD": 3699.0
+ },
+ {
+  "id": "canon-r10",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "R10",
+  "referenceUSD": 979
+ },
+ {
+  "id": "canon-r6ii",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "R6 Mark II",
+  "referenceUSD": 2499
+ },
+ {
+  "id": "canon-r7",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "R7",
+  "referenceUSD": 1499
+ },
+ {
+  "id": "canon-r3",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "R3",
+  "referenceUSD": 5999
+ },
+ {
+  "id": "canon-1dxiii",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "1D X Mark III",
+  "referenceUSD": 6499.0
+ },
+ {
+  "id": "canon-850d",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "850D",
+  "referenceUSD": 899.0
+ },
+ {
+  "id": "canon-r5",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "R5",
+  "referenceUSD": 3899
+ },
+ {
+  "id": "canon-r6",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "R6",
+  "referenceUSD": 2499
+ },
+ {
+  "id": "canon-90d",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "90D",
+  "referenceUSD": 1199.0
+ },
+ {
+  "id": "canon-g7xiii",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "PowerShot G7 X Mark III",
+  "referenceUSD": 749.0
+ },
+ {
+  "id": "canon-rp",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "RP",
+  "referenceUSD": 999
+ },
+ {
+  "id": "canon-eos-r",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "EOS R",
+  "referenceUSD": 1299.0
+ },
+ {
+  "id": "canon-6dii",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "6D Mark II",
+  "referenceUSD": 1999.0
+ },
+ {
+  "id": "canon-eos-5d-mark-iv",
+  "kind": "camera",
+  "brandName": "Canon",
+  "model": "EOS 5D Mark IV",
+  "referenceUSD": 2499.0
+ },
+ {
+  "id": "dji-osmo-360-ii",
+  "kind": "action",
+  "brandName": "DJI",
+  "model": "Osmo 360 II",
+  "referenceUSD": 685.0
+ },
+ {
+  "id": "dji-osmo-360",
+  "kind": "action",
+  "brandName": "DJI",
+  "model": "Osmo 360",
+  "referenceUSD": 549.0
+ },
+ {
+  "id": "dji-osmo-action-6",
+  "kind": "action",
+  "brandName": "DJI",
+  "model": "Osmo Action 6",
+  "referenceUSD": 439.0
+ },
+ {
+  "id": "dji-osmo-nano",
+  "kind": "action",
+  "brandName": "DJI",
+  "model": "Osmo Nano",
+  "referenceUSD": 299.0
+ },
+ {
+  "id": "dji-osmo-action-5-pro",
+  "kind": "action",
+  "brandName": "DJI",
+  "model": "Osmo Action 5 Pro",
+  "referenceUSD": 349.0
+ },
+ {
+  "id": "dji-osmo-action-4",
+  "kind": "action",
+  "brandName": "DJI",
+  "model": "Osmo Action 4",
+  "referenceUSD": 299.0
+ },
+ {
+  "id": "dji-osmo-pocket-3",
+  "kind": "action",
+  "brandName": "DJI",
+  "model": "Osmo Pocket 3",
+  "referenceUSD": 519.0
+ },
+ {
+  "id": "fujifilm-gfx100rf",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "GFX100RF",
+  "referenceUSD": 4899.0
+ },
+ {
+  "id": "fujifilm-x-e5",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "X-E5",
+  "referenceUSD": 1699.95
+ },
+ {
+  "id": "fujifilm-xe5",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "X-E5",
+  "referenceUSD": 1699.0
+ },
+ {
+  "id": "fujifilm-xt30iii",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "X-T30 III",
+  "referenceUSD": 1099.0
+ },
+ {
+  "id": "fujifilm-gfx100sii",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "GFX100S II",
+  "referenceUSD": 4999
+ },
+ {
+  "id": "fujifilm-xm5",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "X-M5",
+  "referenceUSD": 899
+ },
+ {
+  "id": "fujifilm-xt50",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "X-T50",
+  "referenceUSD": 1399
+ },
+ {
+  "id": "fujifilm-x100vi",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "X100VI",
+  "referenceUSD": 1599
+ },
+ {
+  "id": "fujifilm-gfx100ii",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "GFX100 II",
+  "referenceUSD": 7499
+ },
+ {
+  "id": "fujifilm-xs20",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "X-S20",
+  "referenceUSD": 1299
+ },
+ {
+  "id": "fujifilm-xh2",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "X-H2",
+  "referenceUSD": 1999.0
+ },
+ {
+  "id": "fujifilm-xh2s",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "X-H2S",
+  "referenceUSD": 2499
+ },
+ {
+  "id": "fujifilm-xt5",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "X-T5",
+  "referenceUSD": 1699
+ },
+ {
+  "id": "fujifilm-gfx50sii",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "GFX 50S II",
+  "referenceUSD": 3999.0
+ },
+ {
+  "id": "fujifilm-gfx100s",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "GFX100S",
+  "referenceUSD": 5999
+ },
+ {
+  "id": "fujifilm-x-e4",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "X-E4",
+  "referenceUSD": 849.0
+ },
+ {
+  "id": "fujifilm-xt4",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "X-T4",
+  "referenceUSD": 1699.0
+ },
+ {
+  "id": "fujifilm-x100v",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "X100V",
+  "referenceUSD": 1599.0
+ },
+ {
+  "id": "fujifilm-gfx100",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "GFX100",
+  "referenceUSD": 9999
+ },
+ {
+  "id": "fujifilm-x-pro3",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "X-Pro3",
+  "referenceUSD": 1799.0
+ },
+ {
+  "id": "fujifilm-gfx50r",
+  "kind": "camera",
+  "brandName": "Fujifilm",
+  "model": "GFX 50R",
+  "referenceUSD": 4499.0
+ },
+ {
+  "id": "gopro-mission1-pro",
+  "kind": "action",
+  "brandName": "GoPro",
+  "model": "Mission 1 Pro",
+  "referenceUSD": 699.0
+ },
+ {
+  "id": "gopro-max2",
+  "kind": "action",
+  "brandName": "GoPro",
+  "model": "Max 2",
+  "referenceUSD": 499.0
+ },
+ {
+  "id": "gopro-hero",
+  "kind": "action",
+  "brandName": "GoPro",
+  "model": "Hero (2024)",
+  "referenceUSD": 199.0
+ },
+ {
+  "id": "gopro-hero13",
+  "kind": "action",
+  "brandName": "GoPro",
+  "model": "Hero 13 Black",
+  "referenceUSD": 399.0
+ },
+ {
+  "id": "hasselblad-x2dii-100c",
+  "kind": "camera",
+  "brandName": "Hasselblad",
+  "model": "X2D II 100C",
+  "referenceUSD": 7399
+ },
+ {
+  "id": "hasselblad-907x-cfv100c",
+  "kind": "camera",
+  "brandName": "Hasselblad",
+  "model": "907X & CFV 100C",
+  "referenceUSD": 8199
+ },
+ {
+  "id": "hasselblad-x2d-100c",
+  "kind": "camera",
+  "brandName": "Hasselblad",
+  "model": "X2D 100C",
+  "referenceUSD": 8199
+ },
+ {
+  "id": "hasselblad-907x-cfvii-50c",
+  "kind": "camera",
+  "brandName": "Hasselblad",
+  "model": "907X & CFV II 50C",
+  "referenceUSD": 6399
+ },
+ {
+  "id": "hasselblad-907x-cfv-50c",
+  "kind": "camera",
+  "brandName": "Hasselblad",
+  "model": "907X & CFV 50C",
+  "referenceUSD": 6399
+ },
+ {
+  "id": "hasselblad-x1dii-50c",
+  "kind": "camera",
+  "brandName": "Hasselblad",
+  "model": "X1D II 50C",
+  "referenceUSD": 5750
+ },
+ {
+  "id": "hasselblad-x1d-50c",
+  "kind": "camera",
+  "brandName": "Hasselblad",
+  "model": "X1D 50C",
+  "referenceUSD": 8995
+ },
+ {
+  "id": "insta360-x6",
+  "kind": "action",
+  "brandName": "Insta360",
+  "model": "X6",
+  "referenceUSD": 699.0
+ },
+ {
+  "id": "insta360-go-ultra",
+  "kind": "action",
+  "brandName": "Insta360",
+  "model": "Go Ultra",
+  "referenceUSD": 449.0
+ },
+ {
+  "id": "insta360-x4-air",
+  "kind": "action",
+  "brandName": "Insta360",
+  "model": "X4 Air",
+  "referenceUSD": 399.0
+ },
+ {
+  "id": "insta360-x5",
+  "kind": "action",
+  "brandName": "Insta360",
+  "model": "X5",
+  "referenceUSD": 549.0
+ },
+ {
+  "id": "insta360-ace-pro-2",
+  "kind": "action",
+  "brandName": "Insta360",
+  "model": "Ace Pro 2",
+  "referenceUSD": 399.0
+ },
+ {
+  "id": "leica-sl3p",
+  "kind": "camera",
+  "brandName": "Leica",
+  "model": "SL3-P",
+  "referenceUSD": 6690.0
+ },
+ {
+  "id": "leica-sl3-s",
+  "kind": "camera",
+  "brandName": "Leica",
+  "model": "SL3-S",
+  "referenceUSD": 5295.0
+ },
+ {
+  "id": "leica-q3-43",
+  "kind": "camera",
+  "brandName": "Leica",
+  "model": "Q3 43",
+  "referenceUSD": 6995.0
+ },
+ {
+  "id": "leica-sl3",
+  "kind": "camera",
+  "brandName": "Leica",
+  "model": "SL3",
+  "referenceUSD": 6995.0
+ },
+ {
+  "id": "leica-q3",
+  "kind": "camera",
+  "brandName": "Leica",
+  "model": "Q3",
+  "referenceUSD": 6295.0
+ },
+ {
+  "id": "leica-sl2-s",
+  "kind": "camera",
+  "brandName": "Leica",
+  "model": "SL2-S",
+  "referenceUSD": 4895.0
+ },
+ {
+  "id": "leica-sl2",
+  "kind": "camera",
+  "brandName": "Leica",
+  "model": "SL2",
+  "referenceUSD": 5995.0
+ },
+ {
+  "id": "leica-q-typ-116",
+  "kind": "camera",
+  "brandName": "Leica",
+  "model": "Q (Typ 116)",
+  "referenceUSD": 3295.0
+ },
+ {
+  "id": "nikon-p1100",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "Coolpix P1100",
+  "referenceUSD": 1099.0
+ },
+ {
+  "id": "nikon-z5ii",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "Z5 II",
+  "referenceUSD": 1699.95
+ },
+ {
+  "id": "nikon-zr",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "ZR",
+  "referenceUSD": 2199.0
+ },
+ {
+  "id": "nikon-z50ii",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "Z50 II",
+  "referenceUSD": 1049
+ },
+ {
+  "id": "nikon-z6iii",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "Z6 III",
+  "referenceUSD": 2499
+ },
+ {
+  "id": "nikon-z8",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "Z8",
+  "referenceUSD": 3999
+ },
+ {
+  "id": "nikon-zf",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "Zf",
+  "referenceUSD": 1999
+ },
+ {
+  "id": "nikon-z30",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "Z30",
+  "referenceUSD": 709
+ },
+ {
+  "id": "nikon-z9",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "Z9",
+  "referenceUSD": 5499
+ },
+ {
+  "id": "nikon-zfc",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "Zfc",
+  "referenceUSD": 1099
+ },
+ {
+  "id": "nikon-d780",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "D780",
+  "referenceUSD": 2299.0
+ },
+ {
+  "id": "nikon-z5",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "Z5",
+  "referenceUSD": 1399
+ },
+ {
+  "id": "nikon-z6ii",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "Z6 II",
+  "referenceUSD": 1999
+ },
+ {
+  "id": "nikon-z7ii",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "Z7 II",
+  "referenceUSD": 2999
+ },
+ {
+  "id": "nikon-z50",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "Z50",
+  "referenceUSD": 1049
+ },
+ {
+  "id": "nikon-d3500",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "D3500",
+  "referenceUSD": 499.0
+ },
+ {
+  "id": "nikon-z6",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "Z6",
+  "referenceUSD": 1999
+ },
+ {
+  "id": "nikon-z7",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "Z7",
+  "referenceUSD": 2999
+ },
+ {
+  "id": "nikon-d7500",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "D7500",
+  "referenceUSD": 1249.0
+ },
+ {
+  "id": "nikon-d850",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "D850",
+  "referenceUSD": 2499.0
+ },
+ {
+  "id": "nikon-d5600",
+  "kind": "camera",
+  "brandName": "Nikon",
+  "model": "D5600",
+  "referenceUSD": 699.0
+ },
+ {
+  "id": "om-system-om-3",
+  "kind": "camera",
+  "brandName": "OM System",
+  "model": "OM-3",
+  "referenceUSD": 1999.0
+ },
+ {
+  "id": "om-system-om5ii",
+  "kind": "camera",
+  "brandName": "OM System",
+  "model": "OM-5 Mark II",
+  "referenceUSD": 1199.0
+ },
+ {
+  "id": "om-system-om-1-mark-ii",
+  "kind": "camera",
+  "brandName": "OM System",
+  "model": "OM-1 Mark II",
+  "referenceUSD": 2399.0
+ },
+ {
+  "id": "om-system-om-1",
+  "kind": "camera",
+  "brandName": "OM System",
+  "model": "OM-1",
+  "referenceUSD": 1699.0
+ },
+ {
+  "id": "olympus-omd-em1-iii",
+  "kind": "camera",
+  "brandName": "OM System",
+  "model": "OM-D E-M1 Mark III",
+  "referenceUSD": 1499.0
+ },
+ {
+  "id": "olympus-omd-em1-ii",
+  "kind": "camera",
+  "brandName": "OM System",
+  "model": "OM-D E-M1 Mark II",
+  "referenceUSD": 999.0
+ },
+ {
+  "id": "panasonic-s1ii",
+  "kind": "camera",
+  "brandName": "Panasonic",
+  "model": "S1II",
+  "referenceUSD": 2899.99
+ },
+ {
+  "id": "panasonic-s1iie",
+  "kind": "camera",
+  "brandName": "Panasonic",
+  "model": "S1IIE",
+  "referenceUSD": 2599.99
+ },
+ {
+  "id": "panasonic-s1rii",
+  "kind": "camera",
+  "brandName": "Panasonic",
+  "model": "S1RII",
+  "referenceUSD": 3299.99
+ },
+ {
+  "id": "panasonic-gh7",
+  "kind": "camera",
+  "brandName": "Panasonic",
+  "model": "GH7",
+  "referenceUSD": 2199
+ },
+ {
+  "id": "panasonic-g100d",
+  "kind": "camera",
+  "brandName": "Panasonic",
+  "model": "Lumix G100D",
+  "referenceUSD": 749
+ },
+ {
+  "id": "panasonic-s9",
+  "kind": "camera",
+  "brandName": "Panasonic",
+  "model": "S9",
+  "referenceUSD": 1499
+ },
+ {
+  "id": "panasonic-g9ii",
+  "kind": "camera",
+  "brandName": "Panasonic",
+  "model": "G9 II",
+  "referenceUSD": 1699
+ },
+ {
+  "id": "panasonic-s5iix",
+  "kind": "camera",
+  "brandName": "Panasonic",
+  "model": "Lumix S5 IIX",
+  "referenceUSD": 2199
+ },
+ {
+  "id": "panasonic-s5ii",
+  "kind": "camera",
+  "brandName": "Panasonic",
+  "model": "S5 II",
+  "referenceUSD": 1999
+ },
+ {
+  "id": "panasonic-gh6",
+  "kind": "camera",
+  "brandName": "Panasonic",
+  "model": "GH6",
+  "referenceUSD": 2199.0
+ },
+ {
+  "id": "panasonic-s5",
+  "kind": "camera",
+  "brandName": "Panasonic",
+  "model": "S5",
+  "referenceUSD": 1999
+ },
+ {
+  "id": "panasonic-s1r",
+  "kind": "camera",
+  "brandName": "Panasonic",
+  "model": "S1R",
+  "referenceUSD": 2699
+ },
+ {
+  "id": "panasonic-g9",
+  "kind": "camera",
+  "brandName": "Panasonic",
+  "model": "G9",
+  "referenceUSD": 1699
+ },
+ {
+  "id": "pentax-k3iii",
+  "kind": "camera",
+  "brandName": "Pentax",
+  "model": "K-3 Mark III",
+  "referenceUSD": 1999.0
+ },
+ {
+  "id": "pentax-k1ii",
+  "kind": "camera",
+  "brandName": "Pentax",
+  "model": "K-1 Mark II",
+  "referenceUSD": 1799.0
+ },
+ {
+  "id": "ricoh-griv",
+  "kind": "camera",
+  "brandName": "Ricoh",
+  "model": "GR IV",
+  "referenceUSD": 1499.0
+ },
+ {
+  "id": "sigma-fp2",
+  "kind": "camera",
+  "brandName": "Sigma",
+  "model": "fp 2",
+  "referenceUSD": 2199.0
+ },
+ {
+  "id": "sigma-bf",
+  "kind": "camera",
+  "brandName": "Sigma",
+  "model": "BF",
+  "referenceUSD": 1999.0
+ },
+ {
+  "id": "sony-a7rvi",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A7R VI",
+  "referenceUSD": 4499.0
+ },
+ {
+  "id": "sony-a7v",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A7 V",
+  "referenceUSD": 2899.0
+ },
+ {
+  "id": "sony-fx2",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "FX2",
+  "referenceUSD": 3399.99
+ },
+ {
+  "id": "sony-fx3a",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "FX3A",
+  "referenceUSD": 4299.99
+ },
+ {
+  "id": "sony-rx1riii",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "RX1R III",
+  "referenceUSD": 5099.0
+ },
+ {
+  "id": "sony-a1ii",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A1 II",
+  "referenceUSD": 6498.0
+ },
+ {
+  "id": "sony-zve10ii",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "ZV-E10 II",
+  "referenceUSD": 999
+ },
+ {
+  "id": "sony-a6700",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A6700",
+  "referenceUSD": 1398
+ },
+ {
+  "id": "sony-a7cii",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A7C II",
+  "referenceUSD": 2198
+ },
+ {
+  "id": "sony-a7cr",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A7CR",
+  "referenceUSD": 2999
+ },
+ {
+  "id": "sony-a9iii",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A9 III",
+  "referenceUSD": 5999
+ },
+ {
+  "id": "sony-zv1ii",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "ZV-1 II",
+  "referenceUSD": 899.0
+ },
+ {
+  "id": "sony-zve1",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "ZV-E1",
+  "referenceUSD": 2199
+ },
+ {
+  "id": "sony-a7rv",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A7R V",
+  "referenceUSD": 3899
+ },
+ {
+  "id": "sony-fx30",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "FX30",
+  "referenceUSD": 1799.0
+ },
+ {
+  "id": "sony-zv1f",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "ZV-1F",
+  "referenceUSD": 499.0
+ },
+ {
+  "id": "sony-alpha-1",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A1",
+  "referenceUSD": 6499.0
+ },
+ {
+  "id": "sony-a7iv",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A7 IV",
+  "referenceUSD": 2498
+ },
+ {
+  "id": "sony-alpha-7r-iv-a",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A7R IV A",
+  "referenceUSD": 3499
+ },
+ {
+  "id": "sony-fx3",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "FX3",
+  "referenceUSD": 3898.0
+ },
+ {
+  "id": "sony-zv-e10",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "ZV-E10",
+  "referenceUSD": 799
+ },
+ {
+  "id": "sony-a7c",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A7C",
+  "referenceUSD": 1799.0
+ },
+ {
+  "id": "sony-alpha-7s-iii",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A7S III",
+  "referenceUSD": 3999.0
+ },
+ {
+  "id": "sony-a6400",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A6400",
+  "referenceUSD": 848
+ },
+ {
+  "id": "sony-a6600",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A6600",
+  "referenceUSD": 1399.0
+ },
+ {
+  "id": "sony-alpha-9-ii",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A9 II",
+  "referenceUSD": 5790.1
+ },
+ {
+  "id": "sony-rx100vii",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "RX100 VII",
+  "referenceUSD": 1299.0
+ },
+ {
+  "id": "sony-alpha-7-iii",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A7 III",
+  "referenceUSD": 1999.0
+ },
+ {
+  "id": "sony-a7riii",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "A7R III",
+  "referenceUSD": 3199.0
+ },
+ {
+  "id": "sony-rx10iv",
+  "kind": "camera",
+  "brandName": "Sony",
+  "model": "RX10 IV",
+  "referenceUSD": 1699.0
+ },
+ {
+  "id": "canon-ef-100mm-f28l-macro-is-usm",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "EF 100mm f/2.8L Macro IS USM",
+  "referenceUSD": 1299.0
+ },
+ {
+  "id": "canon-ef-24-105-f4l-ii",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "EF 24-105mm f/4L IS II USM",
+  "referenceUSD": 1099.0
+ },
+ {
+  "id": "canon-ef-24-70-f28l-ii",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "EF 24-70mm f/2.8L II USM",
+  "referenceUSD": 1899.0
+ },
+ {
+  "id": "canon-ef-50mm-f18-stm",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "EF 50mm f/1.8 STM",
+  "referenceUSD": 125.0
+ },
+ {
+  "id": "canon-ef-50-f14",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "EF 50mm f/1.4 USM",
+  "referenceUSD": 399.0
+ },
+ {
+  "id": "canon-ef-70-200mm-f28l-is-ii-usm",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "EF 70-200mm f/2.8L IS II USM",
+  "referenceUSD": 2099.0
+ },
+ {
+  "id": "canon-ef-70-200-f28l-iii",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "EF 70-200mm f/2.8L IS III USM",
+  "referenceUSD": 2099.0
+ },
+ {
+  "id": "canon-efs-10-18",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "EF-S 10-18mm f/4.5-5.6 IS STM",
+  "referenceUSD": 279.0
+ },
+ {
+  "id": "canon-efs-18-135-stm",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "EF-S 18-135mm f/3.5-5.6 IS STM",
+  "referenceUSD": 599.0
+ },
+ {
+  "id": "canon-efs-55-250-stm",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "EF-S 55-250mm f/4-5.6 IS STM",
+  "referenceUSD": 299.0
+ },
+ {
+  "id": "canon-rf-100-400-f56-8",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 100-400mm f/5.6-8 IS USM",
+  "referenceUSD": 649.0
+ },
+ {
+  "id": "canon-rf-100-500",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 100-500mm f/4.5-7.1L IS USM",
+  "referenceUSD": 2899
+ },
+ {
+  "id": "canon-rf-100-f28l-macro",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 100mm f/2.8L Macro IS USM",
+  "referenceUSD": 1399.0
+ },
+ {
+  "id": "canon-rf-14-35-f4l",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 14-35mm f/4L IS USM",
+  "referenceUSD": 1699.0
+ },
+ {
+  "id": "canon-rf-15-35mm-f28l-is",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 15-35mm f/2.8L IS USM",
+  "referenceUSD": 2299
+ },
+ {
+  "id": "canon-rf-16-28-f28-is-stm",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 16-28mm f/2.8 IS STM",
+  "referenceUSD": 1099.0
+ },
+ {
+  "id": "canon-rf-16-f28",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 16mm f/2.8 STM",
+  "referenceUSD": 299.0
+ },
+ {
+  "id": "canon-rf-20-50-f4l-pz",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 20-50mm f/4L IS USM PZ",
+  "referenceUSD": 1199.0
+ },
+ {
+  "id": "canon-rf-200-800",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 200-800mm f/6.3-9 IS USM",
+  "referenceUSD": 1899.0
+ },
+ {
+  "id": "canon-rf-24-105-f4",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 24-105mm f/4L IS USM",
+  "referenceUSD": 1299
+ },
+ {
+  "id": "canon-rf-24-105-f28l-z",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 24-105mm f/2.8L IS USM Z",
+  "referenceUSD": 2999.0
+ },
+ {
+  "id": "canon-rf-24-105-stm",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 24-105mm f/4-7.1 IS STM",
+  "referenceUSD": 399.0
+ },
+ {
+  "id": "canon-rf-24-240",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 24-240mm f/4-6.3 IS USM",
+  "referenceUSD": 899.0
+ },
+ {
+  "id": "canon-rf-24-70mm-f28l-is",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 24-70mm f/2.8L IS USM",
+  "referenceUSD": 2399
+ },
+ {
+  "id": "canon-rf-24mm-f18-macro-is-stm",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 24mm f/1.8 Macro IS STM",
+  "referenceUSD": 599.0
+ },
+ {
+  "id": "canon-rf-24-f14l-vcm",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 24mm f/1.4L VCM",
+  "referenceUSD": 1499.0
+ },
+ {
+  "id": "canon-rf-28-70mm-f2l-usm",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 28-70mm f/2L USM",
+  "referenceUSD": 2999.0
+ },
+ {
+  "id": "canon-rf-28-70-f28-is-stm",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 28-70mm f/2.8 IS STM",
+  "referenceUSD": 1099.0
+ },
+ {
+  "id": "canon-rf-28-f28",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 28mm f/2.8 STM",
+  "referenceUSD": 299.0
+ },
+ {
+  "id": "canon-rf-35-f18",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 35mm f/1.8 Macro IS STM",
+  "referenceUSD": 499
+ },
+ {
+  "id": "canon-rf-35-f14l-vcm",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 35mm f/1.4L VCM",
+  "referenceUSD": 1499.0
+ },
+ {
+  "id": "canon-rf-45-f12-stm",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 45mm f/1.2 STM",
+  "referenceUSD": 469.0
+ },
+ {
+  "id": "canon-rf-50mm-f18-stm",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 50mm f/1.8 STM",
+  "referenceUSD": 199
+ },
+ {
+  "id": "canon-rf-50-f12l",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 50mm f/1.2L USM",
+  "referenceUSD": 2299.0
+ },
+ {
+  "id": "canon-rf-50-f14l-vcm",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 50mm f/1.4L VCM",
+  "referenceUSD": 1399.0
+ },
+ {
+  "id": "canon-rf-70-200mm-f28l-is",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 70-200mm f/2.8L IS USM",
+  "referenceUSD": 2699
+ },
+ {
+  "id": "canon-rf-70-200-f28l-z",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 70-200mm f/2.8L IS USM Z",
+  "referenceUSD": 3099.0
+ },
+ {
+  "id": "canon-rf-70-200-f4l",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 70-200mm f/4L IS USM",
+  "referenceUSD": 1599.0
+ },
+ {
+  "id": "canon-rf-75-300",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 75-300mm f/4-5.6",
+  "referenceUSD": 199.0
+ },
+ {
+  "id": "canon-rf-85mm-f12l",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 85mm f/1.2L USM",
+  "referenceUSD": 2699
+ },
+ {
+  "id": "canon-rf-85-f14l-vcm",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 85mm f/1.4L VCM",
+  "referenceUSD": 1599.0
+ },
+ {
+  "id": "canon-rf-85-f2-macro",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF 85mm f/2 Macro IS STM",
+  "referenceUSD": 599.0
+ },
+ {
+  "id": "canon-rfs-10-18",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF-S 10-18mm f/4.5-6.3 IS STM",
+  "referenceUSD": 299.0
+ },
+ {
+  "id": "canon-rfs-18-150mm-f35-63-is",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF-S 18-150mm f/3.5-6.3 IS STM",
+  "referenceUSD": 499
+ },
+ {
+  "id": "canon-rfs-55-210mm-f5-71-is",
+  "kind": "lens",
+  "brandName": "Canon",
+  "model": "RF-S 55-210mm f/5-7.1 IS STM",
+  "referenceUSD": 349
+ },
+ {
+  "id": "fujifilm-xf-10-24-f4-ii",
+  "kind": "lens",
+  "brandName": "Fujifilm",
+  "model": "XF 10-24mm f/4 R OIS WR",
+  "referenceUSD": 999.0
+ },
+ {
+  "id": "fujifilm-xc-15-45",
+  "kind": "lens",
+  "brandName": "Fujifilm",
+  "model": "XC 15-45mm f/3.5-5.6 OIS PZ",
+  "referenceUSD": 299.0
+ },
+ {
+  "id": "fujifilm-xf-150-600",
+  "kind": "lens",
+  "brandName": "Fujifilm",
+  "model": "XF 150-600mm f/5.6-8 R LM OIS WR",
+  "referenceUSD": 1999.0
+ },
+ {
+  "id": "fuji-xf-16-50",
+  "kind": "lens",
+  "brandName": "Fujifilm",
+  "model": "XF16-50mmF2.8-4.8 R LM WR",
+  "referenceUSD": 699
+ },
+ {
+  "id": "fujifilm-xf-16-80-f4",
+  "kind": "lens",
+  "brandName": "Fujifilm",
+  "model": "XF 16-80mm f/4 R OIS WR",
+  "referenceUSD": 799.0
+ },
+ {
+  "id": "fujifilm-xf-18-55mm-f28-4-r-lm-ois",
+  "kind": "lens",
+  "brandName": "Fujifilm",
+  "model": "XF 18-55mm f/2.8-4 R LM OIS",
+  "referenceUSD": 699
+ },
+ {
+  "id": "fujifilm-xf-23mm-f14-r-lm-wr",
+  "kind": "lens",
+  "brandName": "Fujifilm",
+  "model": "XF 23mm f/1.4 R LM WR",
+  "referenceUSD": 899
+ },
+ {
+  "id": "fujifilm-xf-23mm-f28-r-wr",
+  "kind": "lens",
+  "brandName": "Fujifilm",
+  "model": "XF 23mm f/2.8 R WR",
+  "referenceUSD": 499.0
+ },
+ {
+  "id": "fujifilm-xf-30-f28-macro",
+  "kind": "lens",
+  "brandName": "Fujifilm",
+  "model": "XF 30mm f/2.8 R LM WR Macro",
+  "referenceUSD": 699.0
+ },
+ {
+  "id": "fuji-xf-33-f14",
+  "kind": "lens",
+  "brandName": "Fujifilm",
+  "model": "XF33mmF1.4 R LM WR",
+  "referenceUSD": 799
+ },
+ {
+  "id": "fujifilm-xf-35-f2",
+  "kind": "lens",
+  "brandName": "Fujifilm",
+  "model": "XF 35mm f/2 R WR",
+  "referenceUSD": 399.0
+ },
+ {
+  "id": "fujifilm-xf-50-140-f28",
+  "kind": "lens",
+  "brandName": "Fujifilm",
+  "model": "XF 50-140mm f/2.8 R LM OIS WR",
+  "referenceUSD": 1599.0
+ },
+ {
+  "id": "fujifilm-xf-56mm-f12-r-wr",
+  "kind": "lens",
+  "brandName": "Fujifilm",
+  "model": "XF 56mm f/1.2 R WR",
+  "referenceUSD": 999
+ },
+ {
+  "id": "fujifilm-xf-70-300mm-f4-56-r-lm-ois-wr",
+  "kind": "lens",
+  "brandName": "Fujifilm",
+  "model": "XF 70-300mm f/4-5.6 R LM OIS WR",
+  "referenceUSD": 799
+ },
+ {
+  "id": "fujifilm-xf-8-f35",
+  "kind": "lens",
+  "brandName": "Fujifilm",
+  "model": "XF 8mm f/3.5 R WR",
+  "referenceUSD": 799.0
+ },
+ {
+  "id": "laowa-10-f28-zero-d-af",
+  "kind": "lens",
+  "brandName": "Laowa",
+  "model": "10mm f/2.8 Zero-D FF AF",
+  "referenceUSD": 699.0
+ },
+ {
+  "id": "nikon-afs-dx-18-140-vr",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "AF-S DX 18-140mm f/3.5-5.6G ED VR",
+  "referenceUSD": 599.0
+ },
+ {
+  "id": "nikon-afs-35mm-f18g-ed",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "AF-S 35mm f/1.8G ED",
+  "referenceUSD": 529.0
+ },
+ {
+  "id": "nikon-afs-dx-55-200-vr-ii",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "AF-S DX 55-200mm f/4-5.6G ED VR II",
+  "referenceUSD": 349.0
+ },
+ {
+  "id": "nikon-afp-dx-70-300-vr",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "AF-P DX 70-300mm f/4.5-6.3G ED VR",
+  "referenceUSD": 399.0
+ },
+ {
+  "id": "nikon-z-100-400mm-f45-56-vr-s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "NIKKOR Z 100-400mm f/4.5-5.6 VR S",
+  "referenceUSD": 2699.0
+ },
+ {
+  "id": "nikon-z-mc105mm-f-28-vr-s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z MC 105mm f/2.8 VR S",
+  "referenceUSD": 999.0
+ },
+ {
+  "id": "nikon-z-mc-105mm-f28-vr-s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "NIKKOR Z MC 105mm f/2.8 VR S",
+  "referenceUSD": 996.0
+ },
+ {
+  "id": "nikon-z-dx-12-28mm-f-35-56-pz-vr",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z DX 12-28mm f/3.5-5.6 PZ VR",
+  "referenceUSD": 379.0
+ },
+ {
+  "id": "nikon-z-135mm-f-18s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 135mm f/1.8 S Plena",
+  "referenceUSD": 2499.0
+ },
+ {
+  "id": "nikon-z-14-24-f28",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "NIKKOR Z 14-24mm f/2.8 S",
+  "referenceUSD": 2399
+ },
+ {
+  "id": "nikon-z-14-24mm-f-28s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 14-24mm f/2.8 S",
+  "referenceUSD": 2399.0
+ },
+ {
+  "id": "nikon-z-14-30mm-f-4s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 14-30mm f/4 S",
+  "referenceUSD": 1299.0
+ },
+ {
+  "id": "nikon-z-dx-16-50mm-f-35-63-vr",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z DX 16-50mm f/3.5-6.3 VR",
+  "referenceUSD": 299.0
+ },
+ {
+  "id": "nikon-z-dx16-50mm-f-28-vr",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z DX 16-50mm f/2.8 VR",
+  "referenceUSD": 849.0
+ },
+ {
+  "id": "nikon-z-17-28mm-f-28",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 17-28mm f/2.8",
+  "referenceUSD": 1199.0
+ },
+ {
+  "id": "nikon-z-dx-18-140mm-f35-63-vr",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
+  "referenceUSD": 599
+ },
+ {
+  "id": "nikon-z-dx-18-140mm-f-35-63-vr",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z DX 18-140mm f/3.5-6.3 VR",
+  "referenceUSD": 629.0
+ },
+ {
+  "id": "nikon-z-180-600",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "NIKKOR Z 180-600mm f/5.6-6.3 VR",
+  "referenceUSD": 1699
+ },
+ {
+  "id": "nikon-z-180-600mm-f-56-63-vr",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 180-600mm f/5.6-6.3 VR",
+  "referenceUSD": 1699.0
+ },
+ {
+  "id": "nikon-z-20mm-f-18s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 20mm f/1.8 S",
+  "referenceUSD": 1049.0
+ },
+ {
+  "id": "nikon-z-24-120-f4",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "NIKKOR Z 24-120mm f/4 S",
+  "referenceUSD": 1099
+ },
+ {
+  "id": "nikon-z-24-120mm-f-4s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 24-120mm f/4 S",
+  "referenceUSD": 1099.0
+ },
+ {
+  "id": "nikon-z-24-200mm-f-4-63-vr",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 24-200mm f/4-6.3 VR",
+  "referenceUSD": 899.0
+ },
+ {
+  "id": "nikon-z-24-200mm-f4-63-vr",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "NIKKOR Z 24-200mm f/4-6.3 VR",
+  "referenceUSD": 896.0
+ },
+ {
+  "id": "nikon-z-24-50mm-f-4-63",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 24-50mm f/4-6.3",
+  "referenceUSD": 399.0
+ },
+ {
+  "id": "nikon-z-24-70mm-f28-s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "NIKKOR Z 24-70mm f/2.8 S",
+  "referenceUSD": 2296
+ },
+ {
+  "id": "nikon-z-24-70mm-f-28s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 24-70mm f/2.8 S",
+  "referenceUSD": 2299.0
+ },
+ {
+  "id": "nikon-z-24-70mm-f-4s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 24-70mm f/4 S",
+  "referenceUSD": 999.0
+ },
+ {
+  "id": "nikon-z-24-70mm-f4-s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "NIKKOR Z 24-70mm f/4 S",
+  "referenceUSD": 996.0
+ },
+ {
+  "id": "nikon-z-24-70mm-f-28s-ii",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 24-70mm f/2.8 S II",
+  "referenceUSD": 2699.0
+ },
+ {
+  "id": "nikon-z-24mm-f-18s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 24mm f/1.8 S",
+  "referenceUSD": 999.0
+ },
+ {
+  "id": "nikon-z-dx-24mm-f-17",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z DX 24mm f/1.7",
+  "referenceUSD": 279.0
+ },
+ {
+  "id": "nikon-z-26mm-f28",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "NIKKOR Z 26mm f/2.8",
+  "referenceUSD": 496
+ },
+ {
+  "id": "nikon-z-26mm-f-28",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 26mm f/2.8",
+  "referenceUSD": 499.0
+ },
+ {
+  "id": "nikon-z-28-135mm-f-4",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 28-135mm f/4 PZ",
+  "referenceUSD": 2499.0
+ },
+ {
+  "id": "nikon-z-28-400mm-f-4-8-vr",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 28-400mm f/4-8 VR",
+  "referenceUSD": 1299.0
+ },
+ {
+  "id": "nikon-z-28-75mm-f-28",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 28-75mm f/2.8",
+  "referenceUSD": 1199.0
+ },
+ {
+  "id": "nikon-z-28mm-f-28",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 28mm f/2.8",
+  "referenceUSD": 299.0
+ },
+ {
+  "id": "nikon-z-35mm-f-12s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 35mm f/1.2 S",
+  "referenceUSD": 2799.0
+ },
+ {
+  "id": "nikon-z-35mm-f-14",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 35mm f/1.4",
+  "referenceUSD": 599.0
+ },
+ {
+  "id": "nikon-z-35mm-f-18s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 35mm f/1.8 S",
+  "referenceUSD": 849.0
+ },
+ {
+  "id": "nikon-z-dx-mc35mm-f-17",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z DX MC 35mm f/1.7",
+  "referenceUSD": 349.0
+ },
+ {
+  "id": "nikon-z-400mm-f-28-tc-vr-s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 400mm f/2.8 TC VR S",
+  "referenceUSD": 13999.0
+ },
+ {
+  "id": "nikon-z-400mm-f-45-vr-s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 400mm f/4.5 VR S",
+  "referenceUSD": 3249.0
+ },
+ {
+  "id": "nikon-z-40mm-f-2",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 40mm f/2",
+  "referenceUSD": 299.0
+ },
+ {
+  "id": "nikon-z-dx-50-250mm-f-45-63-vr",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z DX 50-250mm f/4.5-6.3 VR",
+  "referenceUSD": 349.0
+ },
+ {
+  "id": "nikon-z-50mm-f12-s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "NIKKOR Z 50mm f/1.2 S",
+  "referenceUSD": 2096
+ },
+ {
+  "id": "nikon-z-50mm-f-12s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 50mm f/1.2 S",
+  "referenceUSD": 2099.0
+ },
+ {
+  "id": "nikon-z-50mm-f-14",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 50mm f/1.4",
+  "referenceUSD": 629.0
+ },
+ {
+  "id": "nikon-z-50mm-f-18s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 50mm f/1.8 S",
+  "referenceUSD": 629.0
+ },
+ {
+  "id": "nikon-z-mc50mm-f-28",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z MC 50mm f/2.8",
+  "referenceUSD": 649.0
+ },
+ {
+  "id": "nikon-z-58mm-f-095s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 58mm f/0.95 S Noct",
+  "referenceUSD": 7999.0
+ },
+ {
+  "id": "nikon-z-600mm-f-4-tc-vr-s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 600mm f/4 TC VR S",
+  "referenceUSD": 15499.0
+ },
+ {
+  "id": "nikon-z-600mm-f-63-vr-s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 600mm f/6.3 VR S",
+  "referenceUSD": 4799.0
+ },
+ {
+  "id": "nikon-z-70-180mm-f-28",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 70-180mm f/2.8",
+  "referenceUSD": 1249.0
+ },
+ {
+  "id": "nikon-z-70-200mm-f28-vr-s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "NIKKOR Z 70-200mm f/2.8 VR S",
+  "referenceUSD": 2599
+ },
+ {
+  "id": "nikon-z-70-200mm-f-28-vr-s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 70-200mm f/2.8 VR S",
+  "referenceUSD": 2699.0
+ },
+ {
+  "id": "nikon-z-70-200mm-f-28-vr-s-ii",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 70-200mm f/2.8 VR S II",
+  "referenceUSD": 2999.0
+ },
+ {
+  "id": "nikon-z-800mm-f-63-vr-s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 800mm f/6.3 VR S",
+  "referenceUSD": 6499.0
+ },
+ {
+  "id": "nikon-z-85mm-f-12s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 85mm f/1.2 S",
+  "referenceUSD": 2799.0
+ },
+ {
+  "id": "nikon-z-85mm-f-18s",
+  "kind": "lens",
+  "brandName": "Nikon",
+  "model": "Z 85mm f/1.8 S",
+  "referenceUSD": 799.0
+ },
+ {
+  "id": "om-system-12-100-f4-pro",
+  "kind": "lens",
+  "brandName": "OM System",
+  "model": "M.Zuiko 12-100mm f/4 IS PRO",
+  "referenceUSD": 1299.0
+ },
+ {
+  "id": "om-system-12-40mm-f28-pro-ii",
+  "kind": "lens",
+  "brandName": "OM System",
+  "model": "M.Zuiko 12-40mm f/2.8 PRO II",
+  "referenceUSD": 899
+ },
+ {
+  "id": "om-system-150-600",
+  "kind": "lens",
+  "brandName": "OM System",
+  "model": "M.Zuiko 150-600mm f/5-6.3 IS",
+  "referenceUSD": 2999.0
+ },
+ {
+  "id": "om-system-40-150-f4-pro",
+  "kind": "lens",
+  "brandName": "OM System",
+  "model": "M.Zuiko 40-150mm f/4 PRO",
+  "referenceUSD": 899.0
+ },
+ {
+  "id": "olympus-mzuiko-ed-60mm-f28-macro",
+  "kind": "lens",
+  "brandName": "OM System",
+  "model": "M.Zuiko ED 60mm F2.8 Macro",
+  "referenceUSD": 499.0
+ },
+ {
+  "id": "panasonic-s-18-40",
+  "kind": "lens",
+  "brandName": "Panasonic",
+  "model": "LUMIX S 18-40mm f/4.5-6.3",
+  "referenceUSD": 499.0
+ },
+ {
+  "id": "panasonic-s-20-60",
+  "kind": "lens",
+  "brandName": "Panasonic",
+  "model": "LUMIX S 20-60mm f/3.5-5.6",
+  "referenceUSD": 599.0
+ },
+ {
+  "id": "panasonic-lumix-s-24-105mm-f4-macro",
+  "kind": "lens",
+  "brandName": "Panasonic",
+  "model": "LUMIX S 24-105mm f/4 Macro O.I.S.",
+  "referenceUSD": 1297
+ },
+ {
+  "id": "panasonic-s-pro-24-70",
+  "kind": "lens",
+  "brandName": "Panasonic",
+  "model": "LUMIX S PRO 24-70mm f/2.8",
+  "referenceUSD": 2199.0
+ },
+ {
+  "id": "panasonic-s-28-200",
+  "kind": "lens",
+  "brandName": "Panasonic",
+  "model": "LUMIX S 28-200mm f/4-7.1 Macro O.I.S.",
+  "referenceUSD": 999.0
+ },
+ {
+  "id": "panasonic-lumix-s-50mm-f18",
+  "kind": "lens",
+  "brandName": "Panasonic",
+  "model": "LUMIX S 50mm f/1.8",
+  "referenceUSD": 449
+ },
+ {
+  "id": "pana-spro-70-200",
+  "kind": "lens",
+  "brandName": "Panasonic",
+  "model": "LUMIX S PRO 70-200mm F2.8 O.I.S.",
+  "referenceUSD": 2599
+ },
+ {
+  "id": "panasonic-s-70-300",
+  "kind": "lens",
+  "brandName": "Panasonic",
+  "model": "LUMIX S 70-300mm f/4.5-5.6 Macro O.I.S.",
+  "referenceUSD": 1249.0
+ },
+ {
+  "id": "panasonic-12-35-f28-ii",
+  "kind": "lens",
+  "brandName": "Panasonic",
+  "model": "LUMIX G X Vario 12-35mm f/2.8 II",
+  "referenceUSD": 999.0
+ },
+ {
+  "id": "panasonic-leica-dg-12-60mm-f28-4",
+  "kind": "lens",
+  "brandName": "Panasonic",
+  "model": "Leica DG Vario-Elmarit 12-60mm f/2.8-4",
+  "referenceUSD": 999
+ },
+ {
+  "id": "samyang-af-24-70-f28-fe",
+  "kind": "lens",
+  "brandName": "Samyang",
+  "model": "AF 24-70mm f/2.8 FE",
+  "referenceUSD": 899.0
+ },
+ {
+  "id": "samyang-af-35mm-f14-fe-ii",
+  "kind": "lens",
+  "brandName": "Samyang",
+  "model": "AF 35mm f/1.4 FE II",
+  "referenceUSD": 599
+ },
+ {
+  "id": "samyang-af-35-f18-fe",
+  "kind": "lens",
+  "brandName": "Samyang",
+  "model": "AF 35mm f/1.8 FE",
+  "referenceUSD": 399.0
+ },
+ {
+  "id": "samyang-af-85-f14-fe-ii",
+  "kind": "lens",
+  "brandName": "Samyang",
+  "model": "AF 85mm f/1.4 FE II",
+  "referenceUSD": 749.0
+ },
+ {
+  "id": "sigma-18-50mm-f28-dc-dn-x",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "18-50mm f/2.8 DC DN Contemporary",
+  "referenceUSD": 549
+ },
+ {
+  "id": "sigma-56mm-f14-dc-dn-x",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "56mm f/1.4 DC DN Contemporary",
+  "referenceUSD": 479
+ },
+ {
+  "id": "sigma-100-400mm-f5-63-dg-dn-os-lm",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "100-400mm f/5-6.3 DG DN OS",
+  "referenceUSD": 949
+ },
+ {
+  "id": "sigma-28-45-f18",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "28-45mm F1.8 DG DN Art",
+  "referenceUSD": 1349
+ },
+ {
+  "id": "sigma-10-18-f28",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "10-18mm f/2.8 DC DN Contemporary",
+  "referenceUSD": 599.0
+ },
+ {
+  "id": "sigma-105-f28-macro",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "105mm f/2.8 DG DN Macro Art",
+  "referenceUSD": 699.0
+ },
+ {
+  "id": "sigma-14-24-f28-art",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "14-24mm f/2.8 DG DN Art",
+  "referenceUSD": 1399.0
+ },
+ {
+  "id": "sigma-14-f14-art",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "14mm f/1.4 DG DN Art",
+  "referenceUSD": 1599.0
+ },
+ {
+  "id": "sigma-150-600-sports",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "150-600mm f/5-6.3 DG DN OS Sports",
+  "referenceUSD": 1499.0
+ },
+ {
+  "id": "sigma-16-300-c",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "16-300mm f/3.5-6.7 DC OS Contemporary",
+  "referenceUSD": 649.0
+ },
+ {
+  "id": "sigma-17-40-f18-art",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "17-40mm f/1.8 DC Art",
+  "referenceUSD": 999.0
+ },
+ {
+  "id": "sigma-18-50-f28-sony",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "18-50mm f/2.8 DC DN Contemporary (Sony E)",
+  "referenceUSD": 549.0
+ },
+ {
+  "id": "sigma-20-200-c",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "20-200mm f/3.5-6.3 DG Contemporary",
+  "referenceUSD": 899.0
+ },
+ {
+  "id": "sigma-23-f14",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "23mm f/1.4 DC DN Contemporary",
+  "referenceUSD": 549.0
+ },
+ {
+  "id": "sigma-24-70mm-f28-dg-dn-art-se",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "24-70mm f/2.8 DG DN Art",
+  "referenceUSD": 1099
+ },
+ {
+  "id": "sigma-24-70-f28-ii-art",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "24-70mm f/2.8 DG DN II Art",
+  "referenceUSD": 1099.0
+ },
+ {
+  "id": "sigma-28-105-f28-art",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "28-105mm f/2.8 DG DN Art",
+  "referenceUSD": 1499.0
+ },
+ {
+  "id": "sigma-28-70-f28-c",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "28-70mm f/2.8 DG DN Contemporary",
+  "referenceUSD": 899.0
+ },
+ {
+  "id": "sigma-30-f14-sony",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "30mm f/1.4 DC DN Contemporary",
+  "referenceUSD": 339.0
+ },
+ {
+  "id": "sigma-35-f14-ii-art",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "35mm f/1.4 DG II Art",
+  "referenceUSD": 899.0
+ },
+ {
+  "id": "sigma-50-f14-art",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "50mm f/1.4 DG DN Art",
+  "referenceUSD": 849.0
+ },
+ {
+  "id": "sigma-60-600-sports",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "60-600mm f/4.5-6.3 DG DN OS Sports",
+  "referenceUSD": 1999.0
+ },
+ {
+  "id": "sigma-70-200-f28-sports",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "70-200mm f/2.8 DG DN OS Sports",
+  "referenceUSD": 1499.0
+ },
+ {
+  "id": "sigma-85-f12-art",
+  "kind": "lens",
+  "brandName": "Sigma",
+  "model": "85mm f/1.2 DG Art",
+  "referenceUSD": 1399.0
+ },
+ {
+  "id": "sirui-aurora-85-f14",
+  "kind": "lens",
+  "brandName": "Sirui",
+  "model": "Aurora 85mm f/1.4",
+  "referenceUSD": 499.0
+ },
+ {
+  "id": "sony-fe-100-400mm-f45-56-gm-oss",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 100-400mm f/4.5-5.6 GM OSS",
+  "referenceUSD": 2498.0
+ },
+ {
+  "id": "sony-fe-100-400-f45-gm",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 100-400mm f/4.5 GM OSS",
+  "referenceUSD": 4299.0
+ },
+ {
+  "id": "sony-fe-100-f28-macro-gm",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 100mm f/2.8 Macro GM OSS",
+  "referenceUSD": 1499.0
+ },
+ {
+  "id": "sony-e-11-f18",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "E 11mm f/1.8",
+  "referenceUSD": 549.0
+ },
+ {
+  "id": "sony-fe-12-24-f28-gm",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 12-24mm f/2.8 GM",
+  "referenceUSD": 2999.0
+ },
+ {
+  "id": "sony-fe-135-f18-gm",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 135mm f/1.8 GM",
+  "referenceUSD": 1899.0
+ },
+ {
+  "id": "sony-fe-14-f18-gm",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 14mm f/1.8 GM",
+  "referenceUSD": 1549.0
+ },
+ {
+  "id": "sony-e-15mm-f14-g",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "E 15mm f/1.4 G",
+  "referenceUSD": 748
+ },
+ {
+  "id": "sony-fe-16-25-f28-g",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 16-25mm f/2.8 G",
+  "referenceUSD": 1099.0
+ },
+ {
+  "id": "sony-fe-16-35-gmii",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 16-35mm f/2.8 GM II",
+  "referenceUSD": 2299
+ },
+ {
+  "id": "sony-fe-16-35-f28-gm",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 16-35mm f/2.8 GM",
+  "referenceUSD": 2199.0
+ },
+ {
+  "id": "sony-e-pz-16-50",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "E PZ 16-50mm f/3.5-5.6 OSS",
+  "referenceUSD": 298.0
+ },
+ {
+  "id": "sony-e-16-55-f28-g",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "E 16-55mm f/2.8 G",
+  "referenceUSD": 1399.0
+ },
+ {
+  "id": "sony-fe-16-f18-g",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 16mm f/1.8 G",
+  "referenceUSD": 899.0
+ },
+ {
+  "id": "sony-e-pz-18-105-g",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "E PZ 18-105mm f/4 G OSS",
+  "referenceUSD": 599.0
+ },
+ {
+  "id": "sony-fe-20-70mm-f4-g",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 20-70mm f/4 G",
+  "referenceUSD": 1098
+ },
+ {
+  "id": "sony-fe-200-600-g",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 200-600mm f/5.6-6.3 G OSS",
+  "referenceUSD": 1998.0
+ },
+ {
+  "id": "sony-fe-24-105mm-f4-g-oss",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 24-105mm f/4 G OSS",
+  "referenceUSD": 1298.0
+ },
+ {
+  "id": "sony-fe-24-240",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 24-240mm f/3.5-6.3 OSS",
+  "referenceUSD": 1048.0
+ },
+ {
+  "id": "sony-fe-24-50-f28-g",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 24-50mm f/2.8 G",
+  "referenceUSD": 1099.0
+ },
+ {
+  "id": "sony-fe-24-70mm-f28-gm-ii",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 24-70mm f/2.8 GM II",
+  "referenceUSD": 2298
+ },
+ {
+  "id": "sony-fe-24-70mm-f28-gm",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 24-70mm F2.8 GM",
+  "referenceUSD": 2198.0
+ },
+ {
+  "id": "sony-fe-24-70-f4-za",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "Vario-Tessar T* FE 24-70mm f/4 ZA OSS",
+  "referenceUSD": 1198.0
+ },
+ {
+  "id": "sony-fe-24-f14-gm",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 24mm f/1.4 GM",
+  "referenceUSD": 1399.0
+ },
+ {
+  "id": "sony-fe-28-70-f2-gm",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 28-70mm f/2 GM",
+  "referenceUSD": 2899.0
+ },
+ {
+  "id": "sony-fe-28-70-oss",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 28-70mm f/3.5-5.6 OSS",
+  "referenceUSD": 398.0
+ },
+ {
+  "id": "sony-fe-35mm-f18",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 35mm f/1.8",
+  "referenceUSD": 748.0
+ },
+ {
+  "id": "sony-fe-35-f14-gm",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 35mm f/1.4 GM",
+  "referenceUSD": 1399.0
+ },
+ {
+  "id": "sony-fe-400-800-g",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 400-800mm f/6.3-8 G OSS",
+  "referenceUSD": 2899.0
+ },
+ {
+  "id": "sony-fe-40-f25-g",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 40mm f/2.5 G",
+  "referenceUSD": 599.0
+ },
+ {
+  "id": "sony-fe-50-150-f2-gm",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 50-150mm f/2 GM",
+  "referenceUSD": 3899.0
+ },
+ {
+  "id": "sony-fe-50mm-f14-gm",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 50mm f/1.4 GM",
+  "referenceUSD": 1298
+ },
+ {
+  "id": "sony-fe-50-f12-gm",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 50mm f/1.2 GM",
+  "referenceUSD": 2199.0
+ },
+ {
+  "id": "sony-fe-50-f18",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 50mm f/1.8",
+  "referenceUSD": 248.0
+ },
+ {
+  "id": "sony-e-55-210",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "E 55-210mm f/4.5-6.3 OSS",
+  "referenceUSD": 349.0
+ },
+ {
+  "id": "sony-fe-55-f18-za",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "Sonnar T* FE 55mm f/1.8 ZA",
+  "referenceUSD": 999.0
+ },
+ {
+  "id": "sony-fe-70-200mm-f28-gm-ii",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 70-200mm f/2.8 GM OSS II",
+  "referenceUSD": 2798
+ },
+ {
+  "id": "sony-fe-70-200-f4-macro-g-ii",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 70-200mm f/4 Macro G OSS II",
+  "referenceUSD": 1699.0
+ },
+ {
+  "id": "sony-e-70-350-g",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "E 70-350mm f/4.5-6.3 G OSS",
+  "referenceUSD": 999.0
+ },
+ {
+  "id": "sony-fe-85-gmii",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 85mm f/1.4 GM II",
+  "referenceUSD": 1799
+ },
+ {
+  "id": "sony-fe-85mm-f18",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 85mm f/1.8",
+  "referenceUSD": 598.0
+ },
+ {
+  "id": "sony-fe-90mm-f28-macro-g-oss",
+  "kind": "lens",
+  "brandName": "Sony",
+  "model": "FE 90mm F2.8 Macro G OSS",
+  "referenceUSD": 1098.0
+ },
+ {
+  "id": "tamron-17-70-canon-rf",
+  "kind": "lens",
+  "brandName": "Tamron",
+  "model": "17-70mm f/2.8 Di III-A VC RXD (Canon RF)",
+  "referenceUSD": 799.0
+ },
+ {
+  "id": "tamron-18-300-fuji",
+  "kind": "lens",
+  "brandName": "Tamron",
+  "model": "18-300mm f/3.5-6.3 Di III-A VC VXD (Fujifilm X)",
+  "referenceUSD": 699.0
+ },
+ {
+  "id": "tamron-28-75-g2-nikon-z",
+  "kind": "lens",
+  "brandName": "Tamron",
+  "model": "28-75mm f/2.8 Di III VXD G2 (Nikon Z)",
+  "referenceUSD": 899.0
+ },
+ {
+  "id": "tamron-35-150-nikon-z",
+  "kind": "lens",
+  "brandName": "Tamron",
+  "model": "35-150mm f/2-2.8 Di III VXD (Nikon Z)",
+  "referenceUSD": 1899.0
+ },
+ {
+  "id": "tamron-70-180-g2-nikon-z",
+  "kind": "lens",
+  "brandName": "Tamron",
+  "model": "70-180mm f/2.8 Di III VC VXD G2 (Nikon Z)",
+  "referenceUSD": 1349.0
+ },
+ {
+  "id": "tamron-17-70mm-f28-di-iii-a-vc-rxd-se",
+  "kind": "lens",
+  "brandName": "Tamron",
+  "model": "17-70mm f/2.8 Di III-A VC RXD",
+  "referenceUSD": 799
+ },
+ {
+  "id": "tamron-20-40-f28",
+  "kind": "lens",
+  "brandName": "Tamron",
+  "model": "20-40mm f/2.8 Di III VXD",
+  "referenceUSD": 749.0
+ },
+ {
+  "id": "tamron-25-200-g2",
+  "kind": "lens",
+  "brandName": "Tamron",
+  "model": "25-200mm f/2.8-5.6 Di III VXD G2",
+  "referenceUSD": 849.0
+ },
+ {
+  "id": "tamron-28-200-rxd",
+  "kind": "lens",
+  "brandName": "Tamron",
+  "model": "28-200mm f/2.8-5.6 Di III RXD",
+  "referenceUSD": 729.0
+ },
+ {
+  "id": "tamron-28-75mm-f28-di-iii-vxd-g2-se",
+  "kind": "lens",
+  "brandName": "Tamron",
+  "model": "28-75mm f/2.8 Di III VXD G2",
+  "referenceUSD": 879
+ },
+ {
+  "id": "tamron-35-100-f28",
+  "kind": "lens",
+  "brandName": "Tamron",
+  "model": "35-100mm f/2.8 Di III VXD",
+  "referenceUSD": 799.0
+ },
+ {
+  "id": "tamron-35-150",
+  "kind": "lens",
+  "brandName": "Tamron",
+  "model": "35-150mm F/2-2.8 Di III VXD",
+  "referenceUSD": 1899
+ },
+ {
+  "id": "tamron-70-300mm-f45-63-di-iii-rxd-se",
+  "kind": "lens",
+  "brandName": "Tamron",
+  "model": "70-300mm f/4.5-6.3 Di III RXD",
+  "referenceUSD": 549
+ },
+ {
+  "id": "viltrox-af-27-f12-pro-xf",
+  "kind": "lens",
+  "brandName": "Viltrox",
+  "model": "AF 27mm f/1.2 Pro (Fujifilm X)",
+  "referenceUSD": 549.0
+ },
+ {
+  "id": "viltrox-af-75-f12-pro-xf",
+  "kind": "lens",
+  "brandName": "Viltrox",
+  "model": "AF 75mm f/1.2 Pro (Fujifilm X)",
+  "referenceUSD": 549.0
+ },
+ {
+  "id": "viltrox-af-85mm-f18-x",
+  "kind": "lens",
+  "brandName": "Viltrox",
+  "model": "AF 85mm f/1.8 II XF",
+  "referenceUSD": 349
+ },
+ {
+  "id": "viltrox-af-85-f2-evo-z",
+  "kind": "lens",
+  "brandName": "Viltrox",
+  "model": "AF 85mm f/2 EVO (Nikon Z)",
+  "referenceUSD": 199.0
+ },
+ {
+  "id": "viltrox-af-16-f18-fe",
+  "kind": "lens",
+  "brandName": "Viltrox",
+  "model": "AF 16mm f/1.8 FE",
+  "referenceUSD": 549.0
+ },
+ {
+  "id": "viltrox-af-50-f2-air",
+  "kind": "lens",
+  "brandName": "Viltrox",
+  "model": "AF 50mm f/2 Air",
+  "referenceUSD": 129.0
+ },
+ {
+  "id": "viltrox-af-56-f12-pro",
+  "kind": "lens",
+  "brandName": "Viltrox",
+  "model": "AF 56mm f/1.2 Pro",
+  "referenceUSD": 549.0
+ },
+ {
+  "id": "viltrox-af-9-f28-air",
+  "kind": "lens",
+  "brandName": "Viltrox",
+  "model": "AF 9mm f/2.8 Air",
+  "referenceUSD": 199.0
+ }
+]

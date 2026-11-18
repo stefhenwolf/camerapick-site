@@ -1,0 +1,47 @@
+name: Update prices
+
+on:
+  schedule:
+    - cron: "17 */6 * * *" # every 6 hours
+  workflow_dispatch:
+    inputs:
+      markets:
+        description: "Markets to refresh (comma separated)"
+        default: "TR,US"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prices
+  cancel-in-progress: false
+
+jobs:
+  prices:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch prices
+        env:
+          BESTBUY_API_KEY: ${{ secrets.BESTBUY_API_KEY }}
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+        run: python pricing/fetch_prices.py --markets "${{ github.event.inputs.markets || 'TR,US' }}"
+
+      - name: Commit updated prices
+        run: |
+          if git diff --quiet -- data/prices.json pricing/match_cache.json; then
+            echo "No price changes."
+            exit 0
+          fi
+          git config user.name "camerapick-price-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/prices.json pricing/match_cache.json
+          git commit -m "Update prices $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
