@@ -26,6 +26,7 @@ sys.path.insert(0, str(HERE / "sources"))
 import akakce  # noqa: E402
 import bestbuy  # noqa: E402
 import ebay  # noqa: E402
+import retailer  # noqa: E402
 from common import MarketResult, PoliteClient, fetch_usd_rates, now_iso  # noqa: E402
 
 ROOT = HERE.parent
@@ -35,7 +36,7 @@ OUTPUT_PATH = ROOT / "data" / "prices.json"
 
 MARKETS: dict[str, dict[str, Any]] = {
     "TR": {"currency": "TRY", "sources": ["akakce"]},
-    "US": {"currency": "USD", "sources": ["bestbuy", "ebay"]},
+    "US": {"currency": "USD", "sources": ["abt", "bestbuy", "ebay"]},
 }
 
 # Rejects matches whose price is wildly off the catalog's USD reference price.
@@ -65,6 +66,7 @@ SOURCE_FETCHERS: dict[str, Callable[[PoliteClient, dict[str, Any], dict[str, Any
     "akakce": akakce_market,
     "bestbuy": bestbuy.fetch,
     "ebay": ebay.fetch,
+    "abt": retailer.ABT.fetch,
 }
 
 

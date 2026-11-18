@@ -1903,5 +1903,29 @@
   "url": null,
   "title": null,
   "checkedAt": 1795018788
+ },
+ "abt:canon-r6iii": {
+  "url": "https://www.abt.com/Canon-EOS-R6-Mark-III-Mirrorless-Camera-Body-7084C002/p/235508.html",
+  "title": "Canon EOS R6 Mark III Mirrorless Camera Body"
+ },
+ "abt:dji-osmo-action-5-pro": {
+  "url": "https://www.abt.com/DJI-Osmo-Action-5-Pro-Action-Camera-Standard-Combo-CP.OS.00000377.01/p/211967.html",
+  "title": "DJI Osmo Action 5 Pro Action Camera Standard Combo - CP.OS.00000377.01"
+ },
+ "abt:fujifilm-xt5": {
+  "url": null,
+  "title": null
+ },
+ "abt:gopro-hero13": {
+  "url": "https://www.abt.com/GoPro-HERO13-Black-Action-Camera-CHDHX131MY/p/235671.html",
+  "title": "GoPro HERO13 Black Action Camera"
+ },
+ "abt:nikon-z6iii": {
+  "url": null,
+  "title": null
+ },
+ "abt:sony-a7iv": {
+  "url": "https://www.abt.com/Sony-Alpha-a7-IV-Mirrorless-Digital-Camera-Body-ILCE7M4B/p/170259.html",
+  "title": "Sony Alpha a7 IV Mirrorless Digital Camera Body"
  }
 }

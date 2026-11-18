@@ -31,14 +31,14 @@ BUNDLE_WORDS = {
     "+", "kit", "lensli", "kafes", "cage", "batarya", "pil", "kilif", "canta", "adaptor",
     "adapter", "filtre", "filter", "kapak", "parasoley", "hood", "koruyucu", "jelatin",
     "tutucu", "aksesuar", "combo", "set", "seti", "bundle", "sarj", "kablo", "grip",
-    "ekran", "montaj", "standart", "creator", "edition", "limited",
+    "ekran", "montaj", "standart", "creator", "edition", "limited", "with", "w", "avec", "bundle",
 }
 GENERATION_WORDS = {"ii", "iii", "iv", "v", "vi", "mark", "mk", "2", "3", "4", "5", "6", "pro", "max", "ultra", "s", "r", "x"}
-BODY_WORDS = {"body", "govde"}
+BODY_WORDS = {"body", "govde", "nu", "boitier", "only"}
 FILLER_WORDS = {
     "aynasiz", "dslr", "fotograf", "makinesi", "lens", "objektif", "aksiyon", "kamerasi",
     "kamera", "eos", "lumix", "alpha", "black", "siyah", "gumus", "silver", "dijital",
-    "kompakt", "camera", "digital", "on", "siparis",
+    "kompakt", "camera", "digital", "on", "siparis", "mirrorless", "appareil", "photo", "hybride", "objectif", "reflex", "interchangeable", "full-frame", "frame", "full",
 }
 
 
@@ -77,6 +77,7 @@ def _expanded(words: list[str]) -> set[str]:
     for word in words:
         result.update(p for p in word.split("-") if p)
         result.update(re.findall(r"[a-z]+|\d+(?:\.\d+)?", word))
+        result.update(re.findall(r"[a-z]+\d+(?:\.\d+)?", word))  # "z6iii" -> "z6"
     for a, b in zip(words, words[1:]):
         result.add(a + b)
     return result
