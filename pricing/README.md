@@ -1,7 +1,7 @@
 # CameraPick price pipeline
 
-Produces `data/prices.json`, served at
-`https://camerapick.sedatpala.site/data/prices.json` and read by the app.
+Produces `data/prices.json`, served by GitHub Pages at
+`https://stefhenwolf.github.io/camerapick-site/data/prices.json` and read by the app.
 
 ## How it works
 
@@ -12,8 +12,8 @@ Produces `data/prices.json`, served at
   link and fetch time.
 - `pricing/match_cache.json`: remembers which listing each product was matched to, so later
   runs only fetch prices.
-- `.github/workflows/prices.yml`: runs every 6 hours and commits the result. Vercel then
-  redeploys the site.
+- `.github/workflows/prices.yml`: runs every 6 hours and commits the result; GitHub Pages
+  republishes it within a minute or two.
 
 ## Sources
 
