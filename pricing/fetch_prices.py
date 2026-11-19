@@ -28,12 +28,14 @@ import bestbuy  # noqa: E402
 import ebay  # noqa: E402
 import retailer  # noqa: E402
 import kakaku  # noqa: E402
+import history  # noqa: E402
 from common import MarketResult, PoliteClient, fetch_usd_rates, now_iso  # noqa: E402
 
 ROOT = HERE.parent
 CATALOG_PATH = HERE / "catalog.json"
 MATCH_CACHE_PATH = HERE / "match_cache.json"
 OUTPUT_PATH = ROOT / "data" / "prices.json"
+HISTORY_DIR = ROOT / "data" / "history"
 
 MARKETS: dict[str, dict[str, Any]] = {
     "TR": {"currency": "TRY", "sources": ["akakce"]},
@@ -165,6 +167,8 @@ def main() -> int:
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(output, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     MATCH_CACHE_PATH.write_text(json.dumps(cache, indent=1, ensure_ascii=False), encoding="utf-8")
+    changed = history.update(HISTORY_DIR, output["items"], markets)
+    print(f"history: {changed} files updated")
     print(f"health: {health}")
     return 0
 

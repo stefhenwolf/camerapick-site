@@ -36,13 +36,13 @@ jobs:
 
       - name: Commit updated prices
         run: |
-          if git diff --quiet -- data/prices.json pricing/match_cache.json; then
+          if git diff --quiet -- data/prices.json pricing/match_cache.json && [ -z "$(git status --porcelain -- data/history)" ]; then
             echo "No price changes."
             exit 0
           fi
           git config user.name "camerapick-price-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/prices.json pricing/match_cache.json
+          git add data/prices.json pricing/match_cache.json data/history
           git commit -m "Update prices $(date -u +'%Y-%m-%d %H:%M UTC')"
           # Someone may have pushed while prices were being fetched; replay this commit on top.
           # On a clash in the generated files, keep this run's fresh data (-X theirs = our commit).
