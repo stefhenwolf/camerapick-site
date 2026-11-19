@@ -2,7 +2,7 @@ name: Update prices
 
 on:
   schedule:
-    - cron: "17 */6 * * *" # every 6 hours (web)
+    - cron: "41 */3 * * *" # every 3 hours; GitHub may skip some scheduled runs, so run often
   workflow_dispatch:
     inputs:
       markets:
