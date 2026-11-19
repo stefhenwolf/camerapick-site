@@ -12,8 +12,11 @@ Produces `data/prices.json`, served by GitHub Pages at
   link and fetch time.
 - `pricing/match_cache.json`: remembers which listing each product was matched to, so later
   runs only fetch prices.
-- `.github/workflows/prices.yml`: runs every 6 hours and commits the result; GitHub Pages
-  republishes it within a minute or two.
+- `.github/workflows/prices.yml`: fetches prices and commits the result; GitHub Pages
+  republishes it within a minute or two. When it finishes it starts
+  `.github/workflows/price-timer.yml`, which waits about 2h20m and starts the next price
+  run, so prices refresh roughly every 3 hours. GitHub skips many scheduled runs, so the
+  cron in `prices.yml` is only a backup that restarts the chain if it breaks.
 
 ## Sources
 

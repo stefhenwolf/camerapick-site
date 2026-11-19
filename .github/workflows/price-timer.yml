@@ -1,0 +1,37 @@
+name: Price timer
+
+# GitHub skips many scheduled runs, so the price refresh keeps itself going:
+# every "Update prices" run starts this timer when it finishes, and the timer
+# waits and then starts the next price run. If the chain ever breaks (a failed
+# dispatch, a cancelled run), the cron in prices.yml restarts it the next time
+# it fires.
+
+on:
+  workflow_dispatch:
+    inputs:
+      wait_minutes:
+        description: "Minutes to wait before starting the next price run"
+        default: "140"
+
+permissions:
+  actions: write
+
+# Only one timer at a time: a newer timer replaces an older one, so manual or
+# scheduled price runs never multiply the chain.
+concurrency:
+  group: price-timer
+  cancel-in-progress: true
+
+jobs:
+  wait-and-trigger:
+    if: github.repository == 'stefhenwolf/camerapick-site'
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - name: Wait
+        run: sleep $(( ${{ github.event.inputs.wait_minutes || '140' }} * 60 ))
+
+      - name: Start the next price run
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run prices.yml -R "${{ github.repository }}" --ref main

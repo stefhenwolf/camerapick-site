@@ -52,3 +52,17 @@ jobs:
             sleep $((attempt * 10))
           done
           exit 1
+
+  # Keeps the refresh going every ~3 hours even when GitHub skips scheduled runs.
+  # Runs even if fetching failed, so one bad run never breaks the chain.
+  schedule-next:
+    needs: prices
+    if: always() && github.repository == 'stefhenwolf/camerapick-site'
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - name: Start the price timer
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run price-timer.yml -R "${{ github.repository }}" --ref main
